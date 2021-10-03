@@ -3,7 +3,7 @@
 
 //Spring MVC Controller
 
-@Controller(name="MyHomeController")
+//@Controller(name="MyHomeController")
 class HomeController{
 
     String home(){
