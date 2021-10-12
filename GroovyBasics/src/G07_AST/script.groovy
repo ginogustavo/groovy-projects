@@ -1,4 +1,4 @@
-package G7_AST
+package G07_AST
 //testing out our customer class
 def d = new Date()
 
