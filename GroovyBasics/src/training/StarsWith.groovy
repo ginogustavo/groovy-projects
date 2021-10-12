@@ -1,3 +1,5 @@
+package training
+
 String tec1 = "c  "
 String tec2 = "c "
 String tec3 = "c#"

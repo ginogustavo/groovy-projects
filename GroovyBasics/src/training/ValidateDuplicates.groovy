@@ -1,3 +1,5 @@
+package training
+
 class Location{
     String displayName
     String code
