@@ -41,3 +41,5 @@ def pattern = ~/Bears/
 
 text = text.replaceFirst(pattern, "Buffalo")
 println text
+
+//https://www.regular-expressions.info/refquick.html
