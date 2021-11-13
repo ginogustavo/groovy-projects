@@ -1,2 +1,0 @@
-package como.inexo
-
