@@ -1,0 +1,12 @@
+MOP: A class does not just directly call a method but it looks down its decision tree.
+It tries to figure it out what to do next.
+
+Customizing the MOP with hooks
+
+-Groovy Objects
+    -Employee.groovy
+-invokeMethod()
+-get property
+-property missing
+-set property
+-method missing
