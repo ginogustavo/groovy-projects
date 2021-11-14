@@ -1,3 +1,5 @@
+package G01_CustomizingMOP
+
 class InvokeDemo {
 
     //The method is called when the one you called is not present on a Groovy Object

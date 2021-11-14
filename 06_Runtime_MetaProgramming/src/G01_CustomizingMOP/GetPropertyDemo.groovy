@@ -1,3 +1,4 @@
+package G01_CustomizingMOP
 // Every read access to a property can be intercepted by overriding the getProperty() method of the current object
 
 class PropertyDemo{
