@@ -64,3 +64,5 @@ assert book.title == "Groovy Book"
 assert book.sections.size() == 2
 assert book.sections[0].title == "section 1"
 assert book.sections[0].chapters.size() == 3
+
+//https://groovy-lang.org/dsls.html#_builders
