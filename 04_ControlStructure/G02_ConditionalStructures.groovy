@@ -33,4 +33,4 @@ switch (num){
 //in
 def validAges = 18..35
 def someAge = 19
-println someAge in validAges
+println someAge in validAge0s
